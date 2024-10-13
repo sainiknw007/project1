@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "example" {
-  bucket = "example-bucket"
+  bucket = "example-bucket908712-terraform"
 }
 
 resource "aws_s3_bucket_acl" "example" {
